@@ -1,18 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-      "name": "🌟南风🌟"
-    },
-    {
-      "url": "http://meowtv.cn/tv",
-      "name": "🌟喵影视🌟"
-    },
-    {
-      "url": "https://盒子迷.top/禁止贩卖",
-      "name": "🌟盒子迷🌟"
-    },
-    {
       "url": "http://饭太硬.top/tv",
       "name": "🌟饭太硬🌟"
     },
@@ -39,6 +27,18 @@
     {
       "url": "http://rihou.vip:55/天天开心",
       "name": "🌟天天开心🌟"
+    },
+    {
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "name": "🌟南风🌟"
+    },
+    {
+      "url": "http://meowtv.cn/tv",
+      "name": "🌟喵影视🌟"
+    },
+    {
+      "url": "https://盒子迷.top/禁止贩卖",
+      "name": "🌟盒子迷🌟"
     },
     {
       "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",

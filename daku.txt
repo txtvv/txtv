@@ -1,7 +1,7 @@
 {
   "storeHouse": [
     {
-      "sourceName": "🌹【天下库】汇集天下所有接口🌹",
+      "sourceName": "🌹欧歌主仓库🌹",
       "sourceUrl": "http://nxog.eu.org/nxog/ou1.php?url=http://nxog.eu.org&xl=1&b=欧歌"
     },
     {
@@ -13,8 +13,8 @@
       "sourceUrl": "https://nxog.eu.org/nxog/ou1.php?url=https://nxog.eu.org&xl=2&b=欧歌"
     },
     {
-      "sourceName": "☘️欧歌本地肋手仓库☘️" ,
-      “sourceUrl”：“clan: //localhost/tvbox/dc.txt”
+      "sourceName": "☘️欧歌本地肋手仓库☘️",
+      "sourceUrl": "clan://localhost/tvbox/dc.txt"
     }
   ]
 }

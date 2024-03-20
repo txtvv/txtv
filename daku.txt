@@ -2,11 +2,11 @@
   "storeHouse": [
     {
       "sourceName": "💥【天下库】汇集天下所有接口💥",
-      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/%E5%85%83%E8%80%81%E5%BA%93.json"
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/VIP.json"
     },
     {
       "sourceName": "❤【元老库】更新时间最长❤",
-      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/%E5%85%83%E8%80%81%E5%BA%93.json"
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/元老库.json"
     },
     {
       "sourceName": "🌷【精品库】最好用的接口🌷",

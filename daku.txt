@@ -1,0 +1,20 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "🌹欧歌主仓库🌹",
+      "sourceUrl": "http://nxog.eu.org/nxog/ou1.php?url=http://nxog.eu.org&xl=1&b=欧歌"
+    },
+    {
+      "sourceName": "🌷欧歌备1仓库🌷",
+      "sourceUrl": "https://o.nxog.top/nxog/ou1.php?url=https://o.nxog.top&xl=2&b=欧歌"
+    },
+    {
+      "sourceName": "🌷欧歌备2仓库🌷",
+      "sourceUrl": "https://nxog.eu.org/nxog/ou1.php?url=https://nxog.eu.org&xl=2&b=欧歌"
+    },
+    {
+      "sourceName": "☘️欧歌本地肋手仓库☘️" ,
+      “sourceUrl”：“clan: //localhost/tvbox/dc.txt”
+    }
+  ]
+}

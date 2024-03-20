@@ -1,7 +1,7 @@
 {
   "storeHouse": [
     {
-      "sourceName": "🌹欧歌主仓库🌹",
+      "sourceName": "🌹【天下库】汇集天下所有接口🌹",
       "sourceUrl": "http://nxog.eu.org/nxog/ou1.php?url=http://nxog.eu.org&xl=1&b=欧歌"
     },
     {

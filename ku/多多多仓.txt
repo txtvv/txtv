@@ -1,0 +1,68 @@
+{
+    "urls": [
+        {
+            "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
+            "name": "💎不良帅线路"
+        },  
+        {
+            "url": "https://jxjson.icu/balabala",
+            "name": "💎巴拉线路"
+        },             
+        {
+            "url": "http://meowtv.cn/tv",
+            "name": "💎喵影视线路"
+        },
+        {
+            "url": "https://www.macms.pro/box/3.json",
+            "name": "💎万达线路"
+        },        
+        {
+            "url": "http://xiaohu.xzam.cn/xiaohu",
+            "name": "💎小胡线路"
+        },
+        {
+            "url": "https://szyyds.cn/tv/x.json",
+            "name": "💎小马线路"
+        },
+        {
+            "url": "https://tv.lan2wan.top/candymuj.json",
+            "name": "💎看电影线路"
+        },
+        {
+            "url": "https://lltv8.top",
+            "name": "💎猎狼线路"
+        },
+                {
+            "url":"http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
+            "name": "🏄️业余线路"
+        },
+          {
+            "url":"http://liulian1993.vip:5555/tvbox/lib/ziji/ziji.json",
+            "name": "🏄️榴莲线路"
+        }, 
+          {
+            "url":"https://files.catbox.moe/eu3uj5",
+            "name": "🏄️夜猫子线路"
+        }, 
+          {
+            "url":"http://sinopacifichk.com/box/56.txt",
+            "name": "🏄️太平洋线路"
+        },
+          {
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🏄️高天流云"
+        }, 	
+          {
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
+            "name": "🏄️二哈线路"
+        },
+          {
+            "url":"http://cdn.qiaoji8.com/tvbox.json",
+            "name": "🏄️巧技线路"
+        },
+          {
+            "url":"http://www.wya6.cn/tv/yc.json",
+            "name": "🏄️无意线路"
+        }		
+    ]
+}

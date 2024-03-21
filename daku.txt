@@ -1,16 +1,20 @@
 {
   "storeHouse": [
     {
-      "sourceName": "❤【天下库】汇集天下所有接口❤",
-      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/VIP.json"
+      "sourceName": "❤汇集天下所有接口❤",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/VIP.txt"
     },
     {
-      "sourceName": "❤【元老库】更新时间最长❤",
+      "sourceName": "❤公众号【爱tv吧】防失联❤",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/VIP.txt"
+    },
+    {
+      "sourceName": "❤【元老库】❤",
       "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/元老库.txt"
     },
     {
-      "sourceName": "🌷【精品库】最好用的接口🌷",
-      "sourceUrl": "https://nxog.eu.org/nxog/ou1.php?url=https://nxog.eu.org&xl=2&b=欧歌"
+      "sourceName": "❤【精品库】❤",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/精品库.txt"
     },
     {
       "sourceName": "❤【七星多仓】❤",

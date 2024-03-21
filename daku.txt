@@ -17,12 +17,24 @@
       "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/精品库.txt"
     },
     {
+      "sourceName": "❤【讴歌多仓】❤",
+      "sourceUrl": "http://tv.nxog.top"
+    },
+    {
       "sourceName": "❤【七星多仓】❤",
       "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/七星多仓.txt"
     },
     {
       "sourceName": "❤【心动仓库】❤",
       "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/心动仓库.txt"
+    },
+    {
+      "sourceName": "❤【宝盒多仓】❤",
+      "sourceUrl": "https://agit.ai/butterfly/md/raw/branch/master/zYGBHmax"
+    },
+    {
+      "sourceName": "❤【云星多仓】❤",
+      "sourceUrl": "https://itvbox.cc/%E5%8F%AF%E8%A7%86TV/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0/%E4%BB%93%E5%BA%93/api.json"
     },
     {
       "sourceName": "❤【多多多仓】❤",

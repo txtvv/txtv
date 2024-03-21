@@ -6,7 +6,7 @@
     },
     {
       "sourceName": "❤公众号【爱tv吧】防失联❤",
-      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/VIP.txt"
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/VIPP.txt"
     },
     {
       "sourceName": "❤【元老库】❤",

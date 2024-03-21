@@ -1,0 +1,72 @@
+{
+  "urls": [
+    {
+      "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+      "name": "🌤️云星家庭〔绿色家庭版〕"
+    },
+    {
+      "url": "https://pan.shangui.cc/f/0kbjIj/sft%20pl.txt",
+      "name": "⏯️爽翻天〔多条线路〕"
+    },
+    {
+      "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+      "name": "⏯️肥猫〔多条线路〕"
+    },
+    {
+      "url": "http://饭太硬.top/tv",
+      "name": "⏯️饭太硬〔多条线路〕"
+    },
+    {
+      "url": "http://xhww.fun:63/小米/DEMO.json",
+      "name": "⏯️小米〔多条线路〕"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "name": "⏯️香雅晴〔多条线路〕"
+    },
+    {
+      "url": "https://tvbox.cainisi.cf",
+      "name": "⏯️菜尼丝〔多条线路〕"
+    },
+    {
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "name": "⏯️南风〔多条线路〕"
+    },
+    {
+      "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+      "name": "⏯️月光〔多条线路〕"
+    },
+    {
+      "url": "https://wds.ecsxs.com/230989.json",
+      "name": "⏯️春盈〔多条线路〕"
+    },
+    {
+      "url": "https://100km.top/0",
+      "name": "⏯️骚零〔多条线路〕"
+    },
+    {
+      "url": "https://pastebin.com/raw/5NHaxyGR",
+      "name": "⏯️道长〔多条线路〕"
+    },
+    {
+      "url": "https://pan.shangui.cc/f/v2Lsk/yyfx.json",
+      "name": "⏯️业余〔多条线路〕"
+    },
+    {
+      "url": "https://weixine.net/ysc.json",
+      "name": "⏯️运输车〔多条线路〕"
+    },
+    {
+      "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+      "name": "⏯️分享者〔多条线路〕"
+    },
+    {
+      "url": "http://rihou.cc:99/荷城茶秀",
+      "name": "⏯️荷城茶秀〔多条线路〕"
+    },
+    {
+      "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+      "name": "⏯️巧技〔多条线路〕"
+    }
+  ]
+}

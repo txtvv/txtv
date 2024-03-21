@@ -1,0 +1,12 @@
+{
+  "urls": [
+    {
+      "url": "https://atomgit.com/tvkj/feilong/raw/main/svip.json",
+      "name": "🚀搜集中稍后更新...🚀"
+    },
+    {
+      "url": "https://atomgit.com/tvkj/feilong/raw/main/svip.json",
+      "name": "🚀搜集中稍后更新...🚀"
+    }
+  ]
+}

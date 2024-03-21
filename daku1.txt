@@ -41,7 +41,7 @@
       "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/多多多仓.txt"
     },
     {
-      "sourceName": "❤更新日期0321❤",
+      "sourceName": "❤更新日期0321【第一版】❤",
       "sourceUrl": "#"
     }
   ]

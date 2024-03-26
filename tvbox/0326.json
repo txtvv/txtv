@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "0326更新",
+      "name": "公众号【爱TV吧】0326更新",
       "type": 3,
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"

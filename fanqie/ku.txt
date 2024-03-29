@@ -1,0 +1,32 @@
+{
+  "urls": [
+    {
+      "url": "http://tt.iitvba.com/vip/tv.json",
+      "name": "🍅VIP接口"
+    },
+    {
+      "url": "https://gitee.com/dongchenys/liu/raw/master/zy.json",
+      "name": "东辰接口"
+    },
+    {
+      "url": "http://饭太硬.top/tv",
+      "name": "饭太硬"
+    },
+    {
+      "url": "https://小白.love",
+      "name": "肥猫"
+    },
+    {
+      "url": "http://xiaohu.xzam.cn/xiaohu",
+      "name": "小胡"
+    },
+    {
+      "url": "http://rihou.vip:55/天天开心",
+      "name": "天天开心"
+    },
+    {
+      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌",
+      "name": "讴歌在线"
+    }
+  ]
+}

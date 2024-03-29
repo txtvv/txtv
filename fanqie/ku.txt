@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "http://tt.iitvba.com/vip/tv.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/fanqie/vip.json",
       "name": "🍅VIP接口"
     },
     {

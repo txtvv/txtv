@@ -354,26 +354,15 @@
         "战争片"
       ]
     },
-    {
-      "key": "csp_Mp4Mov",
-      "name": "🧲┃Mp4┃4k",
+     {
+      "key": "AList",
+      "name": "📕┃雅雅┃4K",
       "type": 3,
-      "api": "csp_Mp4Mov",
+      "api": "csp_AList",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/smdy.jar",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"
-    },
-    {
-      "key": "csp_SeedHub",
-      "name": "🧲┃SeedHub┃4k",
-      "type": 3,
-      "api": "csp_SeedHub",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"
+      "changeable": 0,
+      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/Alist.json"
     },
     {
       "key": "一起看 ",

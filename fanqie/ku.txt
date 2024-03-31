@@ -5,7 +5,7 @@
       "name": "🍅VIP接口"
     },
     {
-      "url": "https://gitee.com/dongchenys/liu/raw/master/zy.json",
+      "url": "https://gitee.com/dongchenys/liu/raw/master/hc.json",
       "name": "东辰接口"
     },
     {

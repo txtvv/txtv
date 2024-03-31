@@ -106,6 +106,16 @@
       "ext": "https://www.xb6v.com",
       "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/xh.jar"
     },
+     {
+      "key": "AList",
+      "name": "📕┃雅雅┃4K",
+      "type": 3,
+      "api": "csp_AList",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/smdy.jar",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/Alist.json"
+    },
     {
       "key": "drpy_js_360影视",
       "name": "🧡┃360┃官源",

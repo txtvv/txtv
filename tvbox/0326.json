@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "公众号【爱TV吧】0326更新",
+      "name": "公众号【爱TV吧】0402更新",
       "type": 3,
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
@@ -70,14 +70,14 @@
     },
     {
       "key": "bp",
-      "name": "❤️┃白嫖┃影视",
+      "name": "❤┃️白嫖┃影视",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
       "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar",
       "api": "csp_XBPQ",
       "ext": {
-        "主页url": "http://www.baipiaoys.com",
+        "主页url": "https://www.baipiaoys.com:9092/",
         "副标题": "pic-text text-right\">&&</b>",
         "搜索模式": "1",
         "搜索url": "https://www.baipiaoys.com/search.html?wd={wd}",
@@ -86,7 +86,7 @@
         "线路标题": "公众号:爱TV吧",
         "线路数组": "公众号:爱TV吧",
         "分类": "电影$1#电视剧$2#动漫$3",
-        "分类url": "http://www.baipiaoys.com/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
+        "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
       }
     },
     {
@@ -287,30 +287,34 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
-      "key": "csp_Pansou",
-      "name": "👽┃盘搜┃网盘",
+      "key": "YiSo",
+      "name": "👽易搜┃搜索",
       "type": 3,
-      "api": "csp_Pansou",
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
-      "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240309.jar;md5;cddfd3426da27e89c7195ea79637028a"
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
     },
     {
-      "key": "csp_PanSearch",
-      "name": "👽┃盘搜┃网盘2",
+      "key": "PanSou",
+      "name": "👽盘搜┃搜索",
       "type": 3,
-      "api": "csp_PanSearch",
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
-      "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240309.jar;md5;cddfd3426da27e89c7195ea79637028a"
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
     },
     {
-      "key": "csp_UpYun",
-      "name": "🍒┃Up搜┃网盘",
+      "key": "UpYun",
+      "name": "👽Up搜┃搜索",
       "type": 3,
       "api": "csp_UpYun",
-      "timeout": 30,
+      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
-      "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240309.jar;md5;cddfd3426da27e89c7195ea79637028a"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
     },
     {
       "key": "push_agent",
@@ -995,5 +999,5 @@
   ],
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "warningText": "公众号【爱TV吧】更新",
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711305426162/fan.txt;md5;602fb3226d777850053484cdeb2f3296"
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt;md5;939c79aa5e93766504d1f7a957d32f24"
 }

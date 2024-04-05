@@ -2,11 +2,11 @@
   "storeHouse": [
     {
       "sourceName": "❤汇集天下所有接口❤",
-      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/VIP.txt"
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/tvbox/cang.json"
     },
     {
       "sourceName": "❤公众号【爱tv吧】防失联❤",
-      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/VIPP.txt"
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/tvbox/cang.json"
     },
     {
       "sourceName": "❤【元老库】❤",

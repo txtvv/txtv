@@ -123,8 +123,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/miaobo.json",
-          "jar": "./jar/dongchen.jar"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/vip/js/miaobo.json",
+          "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/vip/jar/dongchen.jar"
     },
     
     {
@@ -136,7 +136,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 10,
-    "jar": "./jar/123456.txt"
+    "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;2e1f6dccc1fe05e0ae79577587f5590f"
     },
 //饭太硬 
     {

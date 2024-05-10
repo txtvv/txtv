@@ -18,7 +18,6 @@
     },
 
     
-
     {
     "key": "應用商店",
     "name": "🛒应用商店(测试)",
@@ -188,6 +187,18 @@
       "changeable": 1,
       "ext": "https://www.baipiaoys.com:9092/"
     },
+    
+    
+//http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌
+{"key":"南瓜弹幕","name":"💖┃南瓜┃弹幕","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "http://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;244027cbc4b3cd016d8335d175688367"},
+{"key":"酷看弹幕","name":"💖┃酷看┃弹幕","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "http://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;244027cbc4b3cd016d8335d175688367"},
+{"key":"厂长弹幕","name":"💖┃厂长┃弹幕","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "http://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;244027cbc4b3cd016d8335d175688367"},
+{"key":"天天弹幕","name":"💖┃天天┃弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "http://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;244027cbc4b3cd016d8335d175688367"},
+{"key":"三六零弹幕","name":"💖┃三六┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar": "http://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;244027cbc4b3cd016d8335d175688367"},
+
+{"key":"JOJO弹幕","name":"💖┃OJO┃弹幕","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "http://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;244027cbc4b3cd016d8335d175688367"},
+    
+    
 //http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌
     {
     "key":"热播",
@@ -479,7 +490,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": {
+        "aliToken": "tvfan/token.txt",
+        "quarkCookie": "tvfan/cookie.txt",
+        "from": "4k|auto|fhd",
+        "siteUrl": "https://www.wogg.link/",
+        "danMu": "弹"
+      }
     },
     {
       "key": "YiSo",
@@ -713,5 +730,5 @@
 
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "warningText": "恭喜发财",
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714982657770/fan.txt;md5;5c80b7ff2b016f49144335e5c48883c5"
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715069751639/fan.txt;md5;ccc15f8c3df51befa578c1ce8632359f"
 }

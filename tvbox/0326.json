@@ -138,18 +138,6 @@
       "ext": "http://124.222.116.5/mb/api.php/provide/vod/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33|qiaoji",
     "jar": "http://cdn.qiaoji8.com/fix140412.jar;md5;fc0e5aa90d33991dd6d56a6b1ed616aa"
     },
-//饭太硬 
-    {
-      "key": "bp",
-      "name": "❄️┃️白嫖┃影视",
-      "type": 3,
-      "api": "csp_BaiPiao",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.baipiaoys.com:9092/"
-    },
 //http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌
     {
     "key":"热播",
@@ -170,14 +158,6 @@
     "jar": "http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;5f17d8fe24bbde9e1bd24189ae3cde21"
     },
 /////////////////////////////////////////////////////////////////////
-    {
-      "key": "白嫖",
-      "name": "🌅┃白嫖┃影视",
-      "type": 3,
-      "api": "csp_BaiPiao",
-      "playerType": "2",
-    "jar": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69"
-    },
     {
       "key": "csp_Panda_玩偶哥哥",
       "name": "👲┃玩偶┃影视②",

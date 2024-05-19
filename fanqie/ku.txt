@@ -9,7 +9,7 @@
       "name": "东辰接口"
     },
     {
-      "url": "http://fan.xxooo.cf/tv",
+      "url": "https://www.xn--sss604efuw.top/tv",
       "name": "饭太硬"
     },
     {

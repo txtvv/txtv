@@ -252,13 +252,13 @@
     {
      "key":"南瓜",
      "name":"🎃┃南瓜┃影视",
-     "type":3,
-     "api":"csp_AppYSDQ",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":0,
-    "jar": "http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;10e0197bf1b477a4eefa78b71aef687e"
-        
+      "type": 3,
+      "api": "csp_NanGua",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     
     {

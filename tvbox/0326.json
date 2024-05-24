@@ -105,13 +105,13 @@
       "key": "厂长",
       "name": "📔┃厂长┃无广",
       "type": 3,
-      "api": "csp_Czsapp",
+      "api": "csp_NewCz",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.cz233.com/"
+      "ext": "https://czzy.top/"
     },
 //http://pandown.pro/tvbox/tvbox.json
     {
@@ -138,6 +138,8 @@
       "ext": "http://124.222.116.5/mb/api.php/provide/vod/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33|qiaoji",
     "jar": "http://cdn.qiaoji8.com/fix140412.jar;md5;fc0e5aa90d33991dd6d56a6b1ed616aa"
     },
+{"key":"南瓜弹幕","name":"💖┃南瓜┃弹幕","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "http://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;244027cbc4b3cd016d8335d175688367"},
+{"key":"酷看弹幕","name":"💖┃酷看┃弹幕","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "http://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;244027cbc4b3cd016d8335d175688367"},
 //http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌
     {
     "key":"热播",
@@ -156,19 +158,6 @@
     "quickSearch":1,
     "filterable":1,
     "jar": "http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;5f17d8fe24bbde9e1bd24189ae3cde21"
-    },
-/////////////////////////////////////////////////////////////////////
-    {
-      "key": "csp_Panda_玩偶哥哥",
-      "name": "👲┃玩偶┃影视②",
-      "api": "csp_Wogg",
-      "type": 3,
-      "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
-    "jar": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69"
     },
 //http://rihou.vip:55/天天开心
     {
@@ -194,23 +183,13 @@
     {
      "key":"南瓜",
      "name":"🎃┃南瓜┃影视",
-     "type":3,
-     "api":"csp_AppYSDQ",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":0,
-    "jar": "http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;10e0197bf1b477a4eefa78b71aef687e"
-        
-    },
-    {
-      "key": "小柚",
-      "name": "❤┃小柚┃App",
       "type": 3,
-      "api": "csp_AppSK",
+      "api": "csp_NanGua",
+      "timeout": 15,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
+      "changeable": 1
     },
     
     {
@@ -232,29 +211,6 @@
       "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/360%E5%BD%B1%E8%A7%86.js"
     },
  
- //https://gitee.com/dongchenys/liu/raw/master/hc.json
-     {
-      "key": "AList",
-      "name": "📕┃雅雅┃4K",
-      "type": 3,
-      "api": "csp_AList",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/smdy.jar",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/Alist.json"
-    },
- 
-//http://meowtv.cn/tv
-    {
-      "key": "meowtv_nmys",
-      "name": "🌾┃农民┃影视",
-      "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/农民影视.js"
-    },
     
 //饭太硬
     {
@@ -279,32 +235,11 @@
     
     
     
-    {
-      "key": "77",
-      "name": "👒┃七七┃App",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
 
 //http://qrh.yimkj.cn/ym/壹梦.json
 {"key": "奈飞中文","name":"🎗┃奈飞┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://qrh.yimkj.cn/ym/lib/nfzw.json",
     "jar": "http://qrh.yimkj.cn/ym/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949"
 },
-//http://rihou.vip:55/天天开心
-    {
-      "key": "csp_xBPQ_奇优",
-      "name": "🎦┃奇优┃秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://rihou.vip:55/lib/qiyou.json",
-    "jar": "http://rihou.vip:55/lib/ttkx.jar"
-    },
 
 
 {"key":"ikunzy", "name":"🐓┃爱坤┃资源", "type":1,"api":"https://ikunzyapi.com/api.php/provide/vod ","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
@@ -687,5 +622,5 @@
 
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "warningText": "恭喜发财",
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715980119184/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446"
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716299041896/fan.txt;md5;70471410f8e5a1bf20eb64b6b402e5c2"
 }

@@ -3,6 +3,16 @@
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "logo": "http://我不是.肥猫.live/fatcat.jpg",
   "sites": [
+      {
+      "key": "js_豆瓣热播",
+      "name": "🍅VIP豆瓣排行",
+      "type": 3,
+      "api": "http://rihou.cc:88/hccx/Api.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://rihou.cc:88/hccx/Doubanrebo.js"
+    },
     {
       "key": "drpy_js_豆瓣",
       "name": "🍅VIP豆瓣排行",
@@ -11,18 +21,38 @@
       "searchable": 0
     },
     
-//http://xn--dkw0c.v.nxog.top/nxog/ou1.php?b=欧歌
+//精选
+//肥猫
     {
-    "key":"影探蓝光",
-    "name":"💡影探┃蓝光",
+      "key": "nangua",
+      "name": "🎃南瓜┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "http://js.xn--z7x900a.com/js/ng_open.js"
+    },
+    {
+      "key": "荐片",
+      "name": "🧲荐片┃影视",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://api2.rinhome.com"
+    },
+//天天开心
+    {
+    "key":"酷看",
+    "name":"🎦酷看┃秒播",
     "type":3,
-    "api":"csp_App",
+    "api":"csp_Kkys",
+    "timeout":15,
+    "ua": "okhttp/3.15",
     "searchable":1,
     "quickSearch":1,
-    "filterable":0,
-    "ext":"z6aMzDclLwZa7eCQN0nAaMJTu+8HfYERSWRA9AuiPd5ju12RwkZY66pe1tXgTKme4myqMhNAu9a5aDusX/CFhq0GULMcLI0pBe4sO5Jk9iHT4EzGybWth1IYcQZzmT/Uknh6TZ6cHKTEuxhe9kEcbHe/matKBgar76JHg9Ss2kMqYgvU1NSsFSnVVAE7LeVECZO0XGQyrUS8VCpRjkdBsxmMhpS0QcwkxE57v9xCb+A=",
-    "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar"
+    "playerType":1,
+    "changeable":1,
+    "jar": "https://gitee.com/iitvbox/jar/raw/master/天天开心/ttkx.jar"
     },
+//欧歌http://xn--dkw0c.v.nxog.top/nxog/ou1.php?b=欧歌
     {
     "key":"看看影视",
     "name":"💡看看┃影视",
@@ -33,6 +63,7 @@
     "filterable":0,
     "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar"
     },
+//http://xn--dkw0c.v.nxog.top/nxog/ou1.php?b=欧歌
     {
     "key":"热播之家",
     "name":"💡热播┃影视",
@@ -115,14 +146,6 @@
     
 //天天开心http://rihou.vip:55/天天开心//////////////////////////////
     {
-    "key":"荐片",
-    "name":"🎦荐片┃秒播",
-    "type":3,
-    "api":"http://rihou.vip:55/lib/drpy2.min.js",
-    "ext":"http://rihou.vip:55/lib/jianpian.js",
-    "jar": "https://gitee.com/iitvbox/jar/raw/master/天天开心/ttkx.jar"
-    },
-    {
     "key":"csp_五五",
     "name":"🎦五五┃秒播",
     "type":3,
@@ -139,10 +162,12 @@
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
+    "ua": "okhttp/3.15",
     "quickSearch":1,
     "filterable":1,
     "ext":"http://rihou.vip:55/lib/剧圈圈.json",
     "jar": "https://gitee.com/iitvbox/jar/raw/master/天天开心/ttkx.jar"
+        
     },
     {
     "key":"苹果",
@@ -167,7 +192,42 @@
       "ext": "https://gitee.com/iitvbox/jar/raw/master/秒播/js.json",
       "jar": "https://gitee.com/iitvbox/jar/raw/master/秒播/dongchen.jar"
     },
-    
+    {
+    "key":"哔哩哔哩",
+    "name":"🅱️哔哩┃大全",
+    "ua": "okhttp/3.15",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://rihou.vip:55/lib/Bili.json",
+      "jar": "https://gitee.com/iitvbox/jar/raw/master/秒播/dongchen.jar"
+    },
+    {
+    "key":"哔哩直播",
+    "name":"🅱️哔哩┃直播"
+    ,"type":3,
+    "api":"http://rihou.vip:55/lib/drpy2.min.js",
+    "ua": "okhttp/3.15",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"http://rihou.vip:55/lib/blzb.js",
+      "jar": "https://gitee.com/iitvbox/jar/raw/master/秒播/dongchen.jar"
+    },
+    {
+    "key":"csp_Bili短剧",
+    "name":"🅱️哔哩┃短剧",
+    "type": 3,
+    "ua": "okhttp/3.15",
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext":"http://rihou.vip:55/lib/Bili短剧.json",
+      "jar": "https://gitee.com/iitvbox/jar/raw/master/秒播/dongchen.jar"
+    },
     
 //荷塘茶秀/////////////////////////////////////////////////////////
     {
@@ -249,11 +309,10 @@
       ]
     },
     {
-      "key": "nangua",
-      "name": "🎃南瓜┃影视",
+      "key": "比特",
+      "name": "✌️比特┃影视",
       "type": 3,
-      "playerType": "2",
-      "api": "http://dt.xn--yety82d.love/js/ng_open.js"
+      "api": "csp_Bttwo"
     },
 	{
       "key": "厂长",
@@ -432,14 +491,6 @@
       "ext": "http://127.0.0.1:9978/file/fatcat/kk.txt"
     },
     {
-      "key": "drpy_哔哩",
-      "name": "🅱哔哩┃合集",
-      "type": 3,
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "playerType": 1,
-      "ext": "http://dt.xn--yety82d.love/js/B站.js"
-    },
-    {
       "key": "儿童",
       "name": "📚儿童┃启蒙",
       "type": 3,
@@ -511,7 +562,7 @@
     },
     {
       "key": "push_agent",
-      "name": "关注公众号：茄子库",
+      "name": "关注公众号：爱TV吧",
       "type": 3,
       "api": "csp_Push",
       "playerType": "1",
@@ -531,7 +582,7 @@
       "url": "Web"
     },
     {
-      "name": "公众号：茄子库",
+      "name": "公众号：番茄库吧",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
       "ext": {
@@ -611,4 +662,5 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ]
+}
 }

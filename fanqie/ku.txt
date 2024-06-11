@@ -9,11 +9,11 @@
       "name": "东辰接口"
     },
     {
-      "url": "https://www.xn--sss604efuw.top/tv",
+      "url": "https://www.xn--sss604efuw.com/tv",
       "name": "饭太硬"
     },
     {
-      "url": "https://小白.love",
+      "url": "http://肥猫.com",
       "name": "肥猫"
     },
     {

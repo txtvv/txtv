@@ -1,6 +1,6 @@
 {
   "spider": "https://gitee.com/iitvbox/jar/raw/master/肥猫/fm.jar",
-  "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
+  "wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
   "logo": "http://我不是.肥猫.live/fatcat.jpg",
   "sites": [
     {
@@ -21,6 +21,26 @@
       "searchable": 0
     },
 //精选
+//欧歌http://xn--dkw0c.v.nxog.top/nxog/ou1.php?b=欧歌
+    {
+    "key":"看看影视",
+    "name":"💡看看┃影视",
+    "type":3,
+    "api":"csp_WebIV",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar"
+    },
+    {
+    "key":"农民影视",
+    "name":"💡农民┃影视",
+    "type":3,
+    "api":"csp_WexNmys",
+    "searchable":1,
+    "changeable":1,
+    "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar"
+    },
 //肥猫
     {
       "key": "nangua",
@@ -28,6 +48,124 @@
       "type": 3,
       "playerType": "2",
       "api": "http://js.xn--z7x900a.com/js/ng_open.js"
+    },
+    {
+      "key": "比特",
+      "name": "✌️比特┃影视",
+      "type": 3,
+      "api": "csp_Bttwo"
+    },
+    {
+      "key": "黑木耳资源",
+      "name": "🥑木耳┃蓝光",
+      "type": 1,
+      "api": "https://json.heimuer.tv/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "韩剧",
+        "动画电影",
+        "网络电影",
+        "动作",
+        "冒险",
+        "爱情",
+        "虐恋",
+        "逆袭",
+        "穿越",
+        "重生",
+        "港剧",
+        "泰剧",
+        "日剧",
+        "欧美剧",
+        "国产综艺",
+        "韩国综艺",
+        "日本综艺",
+        "欧美综艺",
+        "奇幻",
+        "灾难",
+        "科幻",
+        "恐怖",
+        "剧情",
+        "战争",
+        "喜剧"
+      ]
+    },
+//磁力欧歌
+{
+    "key":"New6v",
+    "name":"🧲New6V┃磁力",
+    "type":3,
+    "api":"csp_New6v",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://www.xb6v.com",
+    "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar"
+},
+{
+    "key":"SeedHub",
+    "name":"🧲SeedHub┃磁力",
+    "type":3,
+    "api":"csp_SeedHub",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar"
+},
+{
+    "key":"美剧迷",
+    "name":"🧲美剧┃磁力",
+    "type":3,
+    "api":"csp_MeijuMi",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar"
+},
+{
+    "key":"迅雷吧",
+    "name":"🧲迅雷┃磁力",
+    "type":3,
+    "api":"csp_Xunlei8",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar"
+},
+{
+    "key":"Mp4电影",
+    "name":"🧲电影┃磁力",
+    "type":3,
+    "api":"csp_Mp4Mov",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar"
+},
+{
+    "key":"酷吧电影",
+    "name":"🧲酷吧┃磁力",
+    "type":3,
+    "api":"csp_KubaCL",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar"
+},
+//天天开心
+    {
+    "key":"剧圈圈",
+    "name":"🎦剧剧┃圈圈",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "ua": "okhttp/3.15",
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://rihou.vip:55/lib/剧圈圈.json",
+    "jar": "https://gitee.com/iitvbox/jar/raw/master/天天开心/ttkx.jar"
     },
     {
       "key": "荐片",
@@ -51,25 +189,7 @@
     "changeable":1,
     "jar": "https://gitee.com/iitvbox/jar/raw/master/天天开心/ttkx.jar"
     },
-//欧歌http://xn--dkw0c.v.nxog.top/nxog/ou1.php?b=欧歌
-    {
-    "key":"看看影视",
-    "name":"💡看看┃影视",
-    "type":3,
-    "api":"csp_WebIV",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":0,
-    "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar"
-    },
 //http://xn--dkw0c.v.nxog.top/nxog/ou1.php?b=欧歌
-    {
-    "key":"热播之家",
-    "name":"💡热播┃影视",
-    "type":3,"api":"csp_XBPQ",
-    "ext": {"分类":"电影$1#电视剧$2#动漫$4#综艺$5","分类url":"https://rebozj.pro/type/{cateId}.html"},
-    "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar"
-    },
     {
     "key":"热播影视",
     "name":"💡热播┃影视",
@@ -84,15 +204,6 @@
     "type":3,
     "api":"csp_TTian",
     "ext":"http://op.ysdqjs.cn",
-    "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar"
-    },
-    {
-    "key":"文才影视",
-    "name":"💡文才┃影视",
-    "type":3,
-    "api":"csp_Wexwencai",
-    "searchable":1,
-    "changeable":1,
     "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar"
     },
 //弹幕http://xn--dkw0c.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌
@@ -156,19 +267,6 @@
     "jar": "https://gitee.com/iitvbox/jar/raw/master/天天开心/ttkx.jar"
     },
     {
-    "key":"剧圈圈",
-    "name":"🎦剧剧┃圈圈",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "ua": "okhttp/3.15",
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"http://rihou.vip:55/lib/剧圈圈.json",
-    "jar": "https://gitee.com/iitvbox/jar/raw/master/天天开心/ttkx.jar"
-        
-    },
-    {
     "key":"苹果",
     "name":"🎦苹果┃无广",
     "type":3,
@@ -178,18 +276,6 @@
     "quickSearch":1,
     "changeable":1,
     "jar": "https://gitee.com/iitvbox/jar/raw/master/天天开心/ttkx.jar"
-    },
-    
-    {
-      "key": "秒播影院",
-      "name": "🍓秒播┃影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/iitvbox/jar/raw/master/秒播/js.json",
-      "jar": "https://gitee.com/iitvbox/jar/raw/master/秒播/dongchen.jar"
     },
     {
     "key":"哔哩哔哩",
@@ -336,16 +422,6 @@
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
     {
-      "key": "alist",
-      "name": "🍰小鸭┃网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://alist.xn--z7x900a.live/alist.json"
-    },
-    {
       "key": "csp_BookTing",
       "name": "📚听书┃音频",
       "type": 3,
@@ -371,25 +447,11 @@
       }
     },
     {
-      "key": "csp_Dm84",
-      "name": "🤣动漫┃巴士",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Dm84"
-    },
-    {
       "key": "csp_Anime1",
       "name": "🐶日本┃动漫",
       "type": 3,
       "playerType": "2",
       "api": "csp_Anime1"
-    },
-    {
-      "key": "csp_Ysj",
-      "name": "📺異界┃动漫",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Ysj"
     },
     {
       "key": "csp_xifan",
@@ -417,8 +479,7 @@
       "key": " 在线┃直播1",
       "name": "📺竞技┃直播",
       "type": 3,
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/JustLive.js",
+      "api": "csp_JustLive",
       "gridview": "0-0-H",
       "style": {
         "type": "rect",
@@ -442,13 +503,13 @@
       "key": "drpy_js_310直播",
       "name": "🏀体育┃直播",
       "type": 3,
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "api": "http://js.xn--z7x900a.com/js/lib/drpy2.min.js",
       "changeable": 0,
       "gridview": 3,
       "style": {
         "type": "list"
       },
-      "ext": "http://dt.xn--yety82d.love/js/310直播.js"
+      "ext": "http://js.xn--z7x900a.com/js/310直播.js"
     },
     {
       "key": "米搜",
@@ -618,7 +679,7 @@
     {
       "name": "解析",
       "type": 1,
-      "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
+      "url": "http://139.159.149.14:8019/api/?url=",
       "ext": {
         "flag": [
           "qq",
